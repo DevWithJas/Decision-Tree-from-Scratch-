@@ -13,3 +13,4 @@ This mini project implements a basic decision tree algorithm from scratch to pre
 
 - **Implementation Details**: The decision tree is represented as nested dictionaries with attributes as keys and decision outcomes as values.
 
+![a-describes-the-components-of-a-decision-tree-the-Nodes-represent-the-possible](https://github.com/CreateJas/Decision-Tree-from-Scratch-/assets/91935368/49478412-e827-43ec-861e-4a467d92de92)
